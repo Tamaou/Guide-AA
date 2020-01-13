@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "9d93edb6685082cddfee3b9f4db98619d119f9409b0c8494fa69d7ad82fbc7c8",
+        "index.js": "e8fe83c35ae0d74ebce96cae9381c0a45e6cc278b904a77ef0648ad3a71b08f5",
+        "module.json": "8a9e8358e6f5410f6c00f95cc0f9f5909704af529fd9ae326217b865f9b5a3d1"
+    },
+    "defs": {
+        "S_ACTION_STAGE": 9,
+        "S_BOSS_GAGE_INFO": 3,
+        "S_CHAT": 3
+    }
+}

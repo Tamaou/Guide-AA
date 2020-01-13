@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "name": "aa-guide",
+    "author": "teralove (Maintained by Tamaou)",
+    "description": "Guide for Antaroth's Abyss",
+    "options": {
+        "niceName": "AA Guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/Tamaou/Guide-AA/master/"]
+}
